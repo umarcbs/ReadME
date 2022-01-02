@@ -16,5 +16,5 @@
 
 
 <a href="https://github.com/umarcbs/ReadME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarcbs&show_icons=false&layout=compact&"](https://github.com/umarcbs/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarcbs&show_icons=false&theme=dark&"](https://github.com/umarcbs/github-readme-stats" />
 </a>
