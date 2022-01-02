@@ -12,3 +12,7 @@
 <a href="https://github.com/umarcbs/ReadME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarcbs&show_icons=false&layout=compact&"](https://github.com/umarcbs/github-readme-stats" />
 </a>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarcbs&theme=dark)
+![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=umarcbs)
