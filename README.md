@@ -7,7 +7,7 @@
 - 📫 How to reach me: @umarcbs
 
 <a href="https://github.com/umarcbs/ReadME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umarcbs&count_private=true&show_icons=true&include_all_commits=true)" alt="Umar's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umarcbs&show_icons=true&theme=radical&include_all_commits=true)" alt="Umar's github stats" />
 </a>
 <a href="https://github.com/umarcbs/ReadME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarcbs&layout=compact"](https://github.com/umarcbs/github-readme-stats" />
