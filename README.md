@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on `Machine Learning` `N L P` `Data Science` `Cyber Security` 
-- 🌱 I’m currently learning `Front End`
+- 🌱 I also work on `Front End`
 - 📫 How to reach me: @umarcbs
 
 <a href="https://github.com/umarcbs/ReadME">
